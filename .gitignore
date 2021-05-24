@@ -11,4 +11,4 @@ Plugins/*/Binaries/*
 # Files
 .vs/
 *.exe
-*_BuildData.uasset
+*_BuiltData.uasset
