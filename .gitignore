@@ -1,0 +1,14 @@
+
+# Directories
+Build/*
+Saved/*
+DerivedDataCache/*
+Intermediate/*
+Plugins/*/Intermediate/*
+Binaries/*
+Plugins/*/Binaries/*
+
+# Files
+.vs/
+*.exe
+*_BuildData.uasset
